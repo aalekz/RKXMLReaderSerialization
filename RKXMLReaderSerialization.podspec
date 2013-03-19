@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RKXMLReaderSerialization"
-  s.version      = "0.20.0"
+  s.version      = "0.20.1"
   s.summary      = "A RestKit serialization format implementation for XML using XMLReader."
   s.homepage     = "https://github.com/RestKit/RKXMLReaderSerialization"
   s.license      = { :type => 'Apache', :file => 'LICENSE'}
