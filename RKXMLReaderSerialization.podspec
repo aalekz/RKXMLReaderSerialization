@@ -14,5 +14,4 @@ Pod::Spec.new do |s|
   s.source_files = '*.{h,m}'
   
   s.dependency 'RestKit', '>= 0.20.0rc1'
-  s.dependency 'XMLReader', '>= 0.0.2.fw.1'
 end
